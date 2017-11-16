@@ -141,7 +141,7 @@ section ul li:before {
 .navbar-default .navbar-brand {
 	color: #fff;
 	font-family: "Open Sans",sans-serif;
-	padding: 0px;
+	padding: 20px;
 	margin-left: 10px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
@@ -164,6 +164,7 @@ section ul li:before {
 	font-family: "Open Sans",sans-serif;
 	text-transform: uppercase;
 	font-size: 12px;
+    padding: 30px;
 	font-weight: 600;
 	letter-spacing: 1px;
 	color: #444448;
@@ -187,7 +188,7 @@ section ul li:before {
 	.navbar-default
 	{
 		background-color: rgba(255, 255, 255, 0.65);
-		padding: 0px 0;
+		padding: 0px 0 0 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
 		transition:padding .3s;
@@ -198,7 +199,7 @@ section ul li:before {
 		-webkit-transition:all .3s;
 		-moz-transition:all .3s;
 		transition:all .3s;
-		margin-top: 10px;
+		margin-top: 0px;
 	    margin-left: 10px;
 	}
 	.navbar-default .navbar-nav>.active>a {
@@ -207,11 +208,11 @@ section ul li:before {
 	.navbar-default.navbar-shrink {
 		background-color: #FFFFFF;
 		border-bottom: 1px solid #828282;
-		padding: 5px 0;
+		padding: 0px 0;
 	}
 	.navbar-default.navbar-shrink .navbar-brand {
 		font-size: 1.5em;
-		margin-top: 10px;
+		margin-top: 0px;
 	}
 }
 
@@ -220,7 +221,7 @@ section ul li:before {
 --------------------*/
 
 header {
-    margin-top: 80px;
+    margin-top: 0px;
 }
 
 .owl-slider-item {
